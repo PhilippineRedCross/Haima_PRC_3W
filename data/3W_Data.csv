@@ -83,15 +83,15 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 82;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Bakir;Finished;4;Families
 83;IFRC;Assessment;Assessment;Assessment;215;21506;;Finished;1;Municipality
 84;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21506;Mocag;Finished;128;Families
-85;IFRC;Relief;Non-Food Item;Blanket;215;21506;Mocag;Finished;128;Families
+85;NZAID;Relief;Non-Food Item;Blanket;215;21506;Mocag;Finished;128;Families
 86;IFRC;Relief;Non-Food Item;Mosquito Net;215;21506;Mocag;Finished;128;Families
 87;IFRC;Relief;Non-Food Item;Plastic Mat;215;21506;Mocag;Finished;128;Families
-88;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mocag;Finished;128;Families
+88;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mocag;Finished;114;Families
 89;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21506;Mocag;Finished;128;Families
 90;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21506;Mabini;Finished;78;Families
-91;IFRC;Relief;Non-Food Item;Blanket;215;21506;Mabini;Finished;78;Families
-92;IFRC;Relief;Non-Food Item;Mosquito Net;215;21506;Mabini;Finished;78;Families
-93;IFRC;Relief;Non-Food Item;Plastic Mat;215;21506;Mabini;Finished;78;Families
+91;IFRC;Relief;Non-Food Item;Blanket;215;21506;Mabini;Finished;42;Families
+92;IFRC;Relief;Non-Food Item;Mosquito Net;215;21506;Mabini;Finished;42;Families
+93;IFRC;Relief;Non-Food Item;Plastic Mat;215;21506;Mabini;Finished;42;Families
 94;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mabini;Finished;78;Families
 95;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21506;Mabini;Finished;78;Families
 96;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Mocag;Finished;640;Individuals
@@ -421,7 +421,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 420;NZAID;Relief;Non-Food Item;Mosquito Net;1432;143213;Agbannawag;Finished;1;Families
 421;PRC;Relief;Non-Food Item;Plastic Mat;1432;143213;Agbannawag;Finished;1;Families
 422;IFRC;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Agbannawag;Finished;30;Families
-423;NZAID;Relief;Non-Food Item;Jerry Can (20L);1432;143213;Agbannawag;Finished;1;Families
+423;NZAID;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Agbannawag;Finished;1;Families
 424;IFRC;Assessment;Assessment;Assessment;1481;148102;;Finished;1;Municipality
 425;German Red Cross;Assessment;Assessment;Detailed Assessment;1481;148102;;Finished;1;Municipality
 426;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;1481;148102;Sacpil;Finished;147;Families
@@ -471,9 +471,9 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 470;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23118;Aga;Finished;24;Families
 471;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23118;Aga;Finished;24;Families
 472;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23118;Aga;Finished;24;Families
-473;IFRC;Relief;Non-Food Item;Blanket;231;23118;Villa Pereda;Finished;36;Families
-474;IFRC;Relief;Non-Food Item;Mosquito Net;231;23118;Villa Pereda;Finished;36;Families
-475;IFRC;Relief;Non-Food Item;Plastic Mat;231;23118;Villa Pereda;Finished;36;Families
+473;IFRC;Relief;Non-Food Item;Blanket;231;23118;Villa Pereda;Finished;18;Families
+474;IFRC;Relief;Non-Food Item;Mosquito Net;231;23118;Villa Pereda;Finished;18;Families
+475;IFRC;Relief;Non-Food Item;Plastic Mat;231;23118;Villa Pereda;Finished;18;Families
 476;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23118;Villa Pereda;Finished;36;Families
 477;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23118;Villa Pereda;Finished;36;Families
 478;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23118;Villa Pereda;Finished;36;Families
